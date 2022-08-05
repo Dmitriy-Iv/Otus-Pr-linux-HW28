@@ -14,5 +14,7 @@ vagrant up
 В результате у нас будут созданы два виртуальных сервера, с установленными Percona-Server и настроенной реплицацией между ними. Настройки произведены согласно методички и использования ansible модулей для работы с MySQL - community.mysql.mysql_xxxxx. 
 
 - Проверка:
+
 ![alt text](/screenshots/master.PNG?raw=true "Screenshot1")  
+
 ![alt text](/screenshots/slave.PNG?raw=true "Screenshot2")
