@@ -18,3 +18,5 @@ vagrant up
 ![alt text](/screenshots/master.PNG?raw=true "Screenshot1")  
 
 ![alt text](/screenshots/slave.PNG?raw=true "Screenshot2")
+
+- P.S. После работы не забыть удалить /tmp/master.sql
